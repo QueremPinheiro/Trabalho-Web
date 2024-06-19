@@ -1,0 +1,30 @@
+* {
+    font-family: "Roboto Slab", serif;
+}
+
+h1 {
+    background-color: rgb(190, 190, 190);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: darkblue;
+    text-align: center;
+}
+
+.P-S{
+    margin-left: 50dvh;
+    margin-right: 50dvh;
+    padding-top: 10dvh;
+    padding-bottom: 10dvh;
+    text-align: left;
+}
+
+.Proj{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    display: flex;
+}
+
+hr{
+    border: 1px solid rgb(148, 147, 147);
+    margin: 5%;
+}
